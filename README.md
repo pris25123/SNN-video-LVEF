@@ -135,7 +135,7 @@ Continuously sampled via `nvidia-smi` at 100 ms intervals over the full 1,276 te
 ## 📁 Repository Structure
 
 ```text
-Capstone/
+SNN-video-LVEF/
 ├── echonet/                      # Core EchoNet-Dynamic package
 │   ├── datasets/                 # Video dataloaders & EchoNet dataset parser
 │   │   └── echo.py
@@ -188,8 +188,8 @@ Capstone/
 Clone the repository and set up a Python 3.10 virtual environment:
 
 ```bash
-git clone https://github.com/your-username/Capstone.git
-cd Capstone
+git clone https://github.com/<your-username>/SNN-video-LVEF.git
+cd SNN-video-LVEF
 
 # Create and activate virtual environment
 python -m venv .venv
@@ -262,10 +262,10 @@ If you use this work or the EchoNet-Dynamic dataset, please cite the primary dat
 ```
 
 ```bibtex
-@misc{snn_echonet_capstone_2026,
+@misc{snn_video_lvef_2026,
   author = {Priyanka and collaborators},
   title = {Spiking Neural Networks for Video-Based Left Ventricular Ejection Fraction Estimation},
   year = {2026},
-  howpublished = {\url{https://github.com/your-username/Capstone}}
+  howpublished = {\url{https://github.com/<your-username>/SNN-video-LVEF}}
 }
 ```
