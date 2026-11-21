@@ -156,7 +156,3 @@ Ouyang, D. et al. (2020). *Video-based AI for beat-to-beat assessment of cardiac
   year={2020}
 }
 ```
-
-## License
-
-This project is licensed under the Apache 2.0 License. See [LICENSE](LICENSE).
